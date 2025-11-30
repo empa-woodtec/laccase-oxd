@@ -31,7 +31,7 @@ The repository comprises 3 folders:
 * **classical** - contains the code for training logistic regression with elastic net regularization, SVM, RF and GB classifiers for the laccase-madiated oxidation prediction.
 * **assets** - contains relevant images, graphics, notes, etc.
 
-<img src="assets/attribs-bpu-7.png" alt="LIG Attributions" width="1000"/>
+<img src="assets/attribs-bpu-7.pdf" alt="LIG Attributions" width="1000"/>
 
 ### Data
 
