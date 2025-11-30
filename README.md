@@ -43,10 +43,10 @@ The datasets are available via a Zenodo link:
 Create the environment with the dependencies listed in the `requirements.txt`, which will be used as the kernel for running the interactive python notebooks `lac-classic.ipynb` (classical classifiers) and `lac-transformer.ipynb` (ChemBERTa model). 
 
 * `lac-classic.ipynb` does not requie GPU; 
-* `lac-transformer.ipynb` assums that a user has an access to one GPU. 
+* `lac-transformer.ipynb` assums that a user has an access to a GPU. 
 
 ```bash
-conda --verion 
+conda --version 
 conda 22.9.0 
 ```
 
