@@ -47,7 +47,7 @@ Create the environment with the dependencies listed in the `requirements.txt`, w
 
 ```bash
 conda --version 
-conda 22.9.0 
+conda 25.5.1 
 ```
 
 ### License
